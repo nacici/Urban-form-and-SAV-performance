@@ -28,12 +28,14 @@ The fixed effect model results are as follows:
 ![regression](img/regression.png)
 
 
-### Sensitivity test
+### Sensitivity tests
 We also conducted sensitivity tests for different city selection criteria, levels of SAV market penetration, and level of willingness to share and the results are consistent across scenarios. 
 #### Sensitivity test - % of intra city trip
+The results are consistent across different thresholds for the percent of intract city trips. The standard devitations of the estimated coefficients become larger as the sample size diminishes with the increase of threshold of the percent of intra-city trips
 ![test1](img/sensitivity_test1.png)
 
 #### Sensitivity test - willingness to share and market penetration
+The results suggest the estimated coefficients are also consistent across different levels of willingness to share and market penetration rates.
 ![test2](img/sensitivity_test2.png)
 
 ## Conclusions
